@@ -17,6 +17,10 @@ body {
 
 }
 
+.tri{
+  background-color: rgba(103, 141, 224, 0.479);
+}
+
 .btn {
   margin: 25px;
   display: inline-block;
